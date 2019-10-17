@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "RNAirplay"
   s.version      = "1.0.0"
   s.summary      = "RNAirplay"
+  s.homepage      = "https://fake.test"
   s.description  = <<-DESC
                   RNAirplay
                    DESC
